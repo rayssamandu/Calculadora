@@ -1,4 +1,4 @@
-Olá, meu nome é Anne Rayssa, e faço parte do Programa de Bolsas de Automação de Testes de APIs com Postman da Compass.uol. O presente repositório refere-se a elaboração dos desafios repassados no Challenge da 4ª Sprint, que versou sobre Javascript e Versionamento de Código.
+Olá, meu nome é Anne Rayssa, e sou Testadora Júnior da Compass.UOL. O presente repositório refere-se a elaboração dos desafios repassados no Challenge da 4ª Sprint, que versou sobre Javascript e Versionamento de Código.
 
 
 Ao longo da Sprint, foram estudados os seguintes conteúdos:
@@ -118,9 +118,4 @@ Referências:
 •	https://mochajs.org/
 •	https://www.chaijs.com/
 •	https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math
-
-
-💜 Galera que fez acontecer:
- 
-Um agradecimento para toda a squad que compõe a equipe Rocketman. As conversas da madrugada foram essenciais para que essa enferma executasse o Challenge nos termos pretendidos! Em especial, agradecimento ao guru do Git/GitHub, Ewerton Alexander.
 
